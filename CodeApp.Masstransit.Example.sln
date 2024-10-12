@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeApp.Masstransit.Shared", "src\CodeApp.Masstransit.Shared\CodeApp.Masstransit.Shared.csproj", "{EE7E9042-79AE-4916-8CA0-92A43E9A6BEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeApp.Order.Api", "src\CodeApp.Order.Api\CodeApp.Order.Api.csproj", "{765072BE-4E6C-43CB-B35C-015BE1B8D44E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeApp.Payment.Service", "src\CodeApp.Payment.Service\CodeApp.Payment.Service.csproj", "{0B006ECC-B287-4EC7-8983-DBBCD3E489DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeApp.Notification.Service", "src\CodeApp.Notification.Service\CodeApp.Notification.Service.csproj", "{B718CDC3-192B-4040-8732-3AB80AA7E850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE7E9042-79AE-4916-8CA0-92A43E9A6BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7E9042-79AE-4916-8CA0-92A43E9A6BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7E9042-79AE-4916-8CA0-92A43E9A6BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7E9042-79AE-4916-8CA0-92A43E9A6BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765072BE-4E6C-43CB-B35C-015BE1B8D44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765072BE-4E6C-43CB-B35C-015BE1B8D44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765072BE-4E6C-43CB-B35C-015BE1B8D44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765072BE-4E6C-43CB-B35C-015BE1B8D44E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B006ECC-B287-4EC7-8983-DBBCD3E489DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B006ECC-B287-4EC7-8983-DBBCD3E489DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B006ECC-B287-4EC7-8983-DBBCD3E489DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B006ECC-B287-4EC7-8983-DBBCD3E489DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B718CDC3-192B-4040-8732-3AB80AA7E850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B718CDC3-192B-4040-8732-3AB80AA7E850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B718CDC3-192B-4040-8732-3AB80AA7E850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B718CDC3-192B-4040-8732-3AB80AA7E850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
