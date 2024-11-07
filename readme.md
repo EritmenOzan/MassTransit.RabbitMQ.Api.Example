@@ -1,1 +1,1 @@
-MassTransit ve RabbitMQ mantıgını anlamak ve tecrube edinebilmek amacıyla basit bir yapı tasarlandı.
+MassTransit ve RabbitMQ mantığını anlamak ve tecrübe edinebilmek amacıyla basit bir yapı tasarlandı.
